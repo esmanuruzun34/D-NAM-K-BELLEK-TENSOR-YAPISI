@@ -1,4 +1,4 @@
-D-NAM-K-BELLEK-TENSOR-YAPISI
+DİNAMİK-BELLEK-TENSOR-YAPISI
 
 TinyML Dinamik Tensor Kütüphanesi (C Dili)
 
